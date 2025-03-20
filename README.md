@@ -4,7 +4,7 @@
 </h2>
 
 <h3 align="center">
-  I'm a student in major of computer science & design informatics 👩🏻‍💻
+  I'm a student in major of design informatics❣️
 </h3><br>
 
 <h2 align="center">
