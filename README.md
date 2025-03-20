@@ -12,6 +12,6 @@
 </h2>
 
 <h3 align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,figma,blender,photoshop,illustrator,java,react,kotlin,js,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,photoshop,illustrator,react,typescript" />
 </h3>
 
